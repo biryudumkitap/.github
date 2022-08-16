@@ -10,7 +10,7 @@ Biryudumkitap / Fabula is a mobile app providing nonfiction book summaries & sho
 | Plugin | README |
 | ------ | ------ |
 | Biryudumkitap Website | [biryudumkitap.com](https://www.biryudumkitap.com) |
-| Fabula Website | [biryudumkitap.com](https://www.getfabula.com) |
+| Fabula Website | [getfabula.com](https://www.getfabula.com) |
 | GooglePlay | [Link 🔗](https://biryudumkitap.onelink.me/fzCw?pid=website&c=BYK_Home_20211025) |
 | AppStore | [Link 🔗](https://biryudumkitap.onelink.me/fzCw?pid=website&c=BYK_Home_20211025) |
 | LinkedIn | [Link 🔗](https://www.linkedin.com/company/biryudumkitap/) |
